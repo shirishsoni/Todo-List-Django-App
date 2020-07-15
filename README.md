@@ -6,6 +6,6 @@ The application allows user to create a todo list items, insert memo, define if 
 
 Here is the link to check it out.
 
-demotodolist.pythonanywhere.com
+https://demotodolist.pythonanywhere.com
 
 Please let me know if you have any suggestions.
